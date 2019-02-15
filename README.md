@@ -1,2 +1,2 @@
 # plexautomation
-Automation scripts for Plex and Plex related services
+Automation scripts and configurations for Plex and Plex related services
